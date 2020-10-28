@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">10sp</dimen>
+    <dimen name="txtTitle">28dp</dimen>
+    <dimen name="edtMeal">50dp</dimen>
+    <dimen name="txtSelect">25dp</dimen>
+    <dimen name="txtPercentage">80dp</dimen>
+    <dimen name="btnReset">30dp</dimen>
+    <dimen name="txtResult">60dp</dimen>
+</resources>
